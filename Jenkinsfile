@@ -1,3 +1,0 @@
-buildDockerImage(
-    dockerImageSubPath: 'base/redhat',
-)
